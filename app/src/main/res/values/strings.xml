@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReaderApp</string>
+    <string name="mahawthada">မေဟာ္သဓာ</string>
+    <string name="popular">လူၾကိဳက္မ်ားေသာ</string>
+    <string name="showall"><u>အကုန္ၿပ</u></string>
+    <string name="desp">တစ္ႏွစ္တာအတြင္းအေအာင္ျမင္ဆုံး ကုမဏီဆုကို ၃ႏွစ္ဆက္တိုက္ရ႐ွိခ့ဲၿပီး ျဖစ္သည္။ ေနာက္ႏွစ္ေတြလဲဆက္ၿပီးရဖို႔အတလားအလာေကာင္းေနသည္။အျမတ္ရာခိုင္ႏႈံးကလဲတစ္ႏွစ္ထက္တစ္ႏွစ္</string>
+    <string name="booktitle">အနာဂတ္ကုမဏီ လိမိတ္က (မင္းလူ)</string>
+    <string name="reader">ဖတ္ရွဳသူ :</string>
+    <string name="sender">ေပးပို႕သူ :</string>
+
+</resources>
